@@ -1,0 +1,6 @@
+{
+  "name": "HarvestHub",
+  "description": "Marketplace for Local Farm Products — Theme: eGreen Basket",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
